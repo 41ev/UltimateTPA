@@ -1,0 +1,3 @@
+# DonutTPA Settings
+use-just-tpaccept: false   # If true, players must use /tpaccept (no GUI pop-up)
+disable-all-guis: false    # Globally disable GUIs for all players
