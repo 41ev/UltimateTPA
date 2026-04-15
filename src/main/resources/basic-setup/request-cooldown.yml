@@ -1,0 +1,2 @@
+# Seconds a player must wait before sending another request
+request-cooldown: 1
